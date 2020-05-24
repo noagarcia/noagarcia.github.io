@@ -1,0 +1,45 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+
+.top-buffer { margin-top:30px; }
+
+.row {
+  display: flex;
+  align-items: center;
+}
+
+.abstract {
+    border: 1px solid;
+    border-radius: 5px;
+    border-color: lightgreen;
+    background-color: honeydew;
+    padding: 20px 40px 20px 40px;
+}
+
+.project {
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 25px;
+    margin: 25px;
+    box-shadow: 2px 2px lightgrey;
+}
+
+.namebox {
+    vertical-align: top; 
+}

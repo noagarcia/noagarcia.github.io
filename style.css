@@ -1,0 +1,39 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+  background: white;
+  max-width: 800px;
+  margin: auto;
+}
+
+div.header {
+	width: 90%;
+	margin: 1em auto;
+	padding: 1.5em 3em 1.5em 3em;
+	background: white;
+	border-radius: 40px;
+}
+
+div.content {
+	width: 90%;
+	margin: auto;
+	padding: 0em 3em 1.5em 3em;
+	background: white;
+	border-radius: 40px;
+}
+
+img.profile {
+  border-radius: 5%;
+  width: 80%;
+  box-shadow: 3px 3px 5px grey;
+}
+
+.main-menu a {
+  display: inline-block;
+  font-size: 18px;
+  color: grey;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
